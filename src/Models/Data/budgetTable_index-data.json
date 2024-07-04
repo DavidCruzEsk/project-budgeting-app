@@ -1,0 +1,23 @@
+[
+    {
+        "item_name": "Apple Stock",
+        "amount": 300.00,
+        "date": "8/20/2023",
+        "from": "Jersey Capital",
+        "category": "Investment"
+    },
+    {
+        "item_name": "Lot #246 - Bronx County, New York City, New York",
+        "amount": 399999.99,
+        "date": "02/03/2018",
+        "from": "Berkin's Family",
+        "category": "Real Estate"
+    },
+    {
+        "item_name": "Amazon Web Service",
+        "amount": 50.00,
+        "date": "5/08/2024",
+        "from": "David Cruz",
+        "category": "Web Cloud Service (monthly rate)"
+    }
+]
